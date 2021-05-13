@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/robotics/catkin_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/robotics/catkin_ws/src/cam_test/include/**",
+        "/home/robotics/catkin_ws/src/kobuki_keyop/include/**",
+        "/home/robotics/catkin_ws/src/kobuki_node/include/**",
+        "/home/robotics/catkin_ws/src/kobuki_safety_controller/include/**",
+        "/home/robotics/catkin_ws/src/lean_tf/include/**",
+        "/home/robotics/catkin_ws/src/learn_msg_filter/include/**",
+        "/home/robotics/catkin_ws/src/open_karto/include/**",
+        "/home/robotics/catkin_ws/src/openslam_gmapping/include/**",
+        "/home/robotics/catkin_ws/src/yocs_controllers/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
